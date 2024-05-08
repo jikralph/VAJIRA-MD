@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
-global.location = 'Srilanka Colombo'
+global.location = 'Africa Tanzania'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
 global.mess = {
